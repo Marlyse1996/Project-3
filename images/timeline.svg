@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="803.96" height="226.49" viewBox="0 0 803.96 226.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcaece;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fcaece;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+    </style>
+  </defs>
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" y="106.49" width="803.96" height="9"/>
+      <line class="cls-2" x1="60" x2="60" y2="110.99"/>
+      <line class="cls-2" x1="131.99" y1="115.49" x2="131.99" y2="226.49"/>
+      <line class="cls-2" x1="239.99" x2="239.99" y2="110.99"/>
+      <line class="cls-2" x1="331.48" y1="115.49" x2="331.48" y2="226.49"/>
+      <line class="cls-2" x1="439.48" x2="439.48" y2="110.99"/>
+      <line class="cls-2" x1="512.22" y1="115.49" x2="512.22" y2="226.49"/>
+      <line class="cls-2" x1="622.47" x2="622.47" y2="110.99"/>
+      <line class="cls-2" x1="692.97" y1="115.49" x2="692.97" y2="226.49"/>
+    </g>
+  </g>
+</svg>
